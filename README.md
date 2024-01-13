@@ -40,5 +40,6 @@ Upon completion, interns receive:
 - Placement Support 🌐
 - Networking Opportunities 🤝
 
+## Preview
 
 ![Preview Image](/preview/preview.PNG)
