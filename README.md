@@ -41,4 +41,4 @@ Upon completion, interns receive:
 - Networking Opportunities 🤝
 
 
-![Preview Image](/preview.PNG)
+![Preview Image](/preview/preview.PNG)
